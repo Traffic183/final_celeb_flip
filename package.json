@@ -1,0 +1,19 @@
+{
+  "name": "celeb_flip",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Traffic183/celeb_flip.git"
+  },
+  "author": "ml",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Traffic183/celeb_flip/issues"
+  },
+  "homepage": "https://github.com/Traffic183/celeb_flip#readme"
+}
